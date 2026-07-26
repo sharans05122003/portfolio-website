@@ -1,0 +1,88 @@
+{
+    "personal_information": {
+        "name": "Sharan Swaminathan",
+        "role": "FULL STACK DEVELOPER",
+        "location": "Coimbatore, Tamil Nadu, India",
+        "email": "sharans05122003@gmail.com",
+        "mobile": "9342485696",
+        "links": {
+            "portfolio": "Portfolio",
+            "linkedin": "LinkedIn",
+            "github": "GitHub",
+            "leetcode": "Leetcode"
+        }
+    },
+    "summary": "Driven Computer Science graduate and Technical Associate with 2+ years of experience bridging the gap between data structuring and web technologies. Core expertise adept at transforming complex research articles using LaTeX and managing web-ready data structures with XML, and front-end development using HTML, CSS and JavaScript. Demonstrated ability to analyze and optimize web data infrastructure, combining robust technical skills with a strong foundation in structured workflow processes.",
+    "technical_skills": {
+        "languages": ["JavaScript", "Python", "HTML", "CSS"],
+        "frameworks": ["React.js", "Node.js"],
+        "databases": ["MySQL"],
+        "dev_tools": ["Visual Studio Code", "Github"]
+    },
+    "experience": [
+        {
+            "role": "Senior Associate - LaTex",
+            "company": "TNQ Technologies",
+            "location": "Remote – Coimbatore, Tamil Nadu, India",
+            "duration": "May 2024 – Present",
+            "highlights": [
+                "Designed and published research articles using LaTex and XML",
+                "Worked in designing web layouts of raw manuscript content",
+                "Improved website performance and speed through optimization techniques by 55%"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "N. G. M College of Arts and Science (Affiliated with Bharathiar University)",
+            "location": "Pollachi, Tamil Nadu, India",
+            "degree": "B. Sc. in Computer Science",
+            "duration": "Jan 2016 – Dec 2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Ai virtual Keyboard document",
+            "category": "frontend",
+            "image": "aivk.jpg",
+            "description": "A modern React-based virtual keyboard documentation interface powered by HTML, CSS and JavaScript.",
+            "technologies": ["React.js", "Redux", "PHP", "MySQL", "Git"],
+            "links": ["Source Code"],
+            "highlights": [
+                "Designed and developed a clean and modern website using HTML, CSS, and JavaScript",
+                "Optimized website for speed and user experience",
+                "Utilized responsive design to ensure compatibility across all devices",
+                "Deployed on GitHub pages via GitHub Actions"
+            ]
+        },
+        {
+            "title": "Task Sync",
+            "category": "fullstack",
+            "image": "tasksync.jpg",
+            "description": "A task management platform with Kotlin, XML, and RESTful backend integration for user-driven workflow automation.",
+            "technologies": ["Node.js", "Express", "JavaScript", "Git"],
+            "links": ["Source Code"],
+            "highlights": [
+                "A Mobile application exposed using a RESTful API made with Kotlin and XML",
+                "Used as AI automated task manager assistant with multiple users with ability to assign tasks according to working files"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Python for Data Science",
+            "provider": "Cognitiveclass.ai",
+            "url": "https://courses.cognitiveclass.ai/certificates/1e718120ab38497e89e04b3d69fa2481"
+        },
+        {
+            "title": "Introduction to Artificial Intelligence",
+            "provider": "Great Learning",
+            "url": "https://www.mygreatlearning.com/certificate/UHBLAWLG?referrer_code=GL2KJPHAEZCGE"
+        },
+        {
+            "title": "Functions in Python",
+            "provider": "Great Learning",
+            "url": "https://www.mygreatlearning.com/certificate/VTZCKZSW?referrer_code=GL2KJPHAEZCGE"
+        }
+    ]
+}

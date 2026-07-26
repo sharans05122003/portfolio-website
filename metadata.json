@@ -1,0 +1,6 @@
+{
+  "name": "Professional Portfolio",
+  "description": "A highly polished, professional portfolio website with responsive grid layout, theme toggle, project filter showcase, and interactive contact console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
